@@ -2,8 +2,9 @@
 ![alt E-commerce](/assets/E-commece.png)
 ## tools using for build the website 
 
-# start learning python 
-
+> [!NOTE]
+> step by step please see all commits all resources for learn all thing
+> i add link you open and learn all thing ok for understand the code 
 ## backEnd ( django framework and mysql database ) 
 
 ## frontEnd (React & redux) 
